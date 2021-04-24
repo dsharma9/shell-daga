@@ -1,0 +1,45 @@
+= or == is equal to
+
+!= is not equal to
+
+< is less than in ASCII alphabetical order
+
+> is greater than in ASCII alphabetical order
+
+-z test that the string is empty (null)
+
+-n test that a string is not null
+
+-eq is equal to
+
+-ne is not equal to
+
+-lt is less than
+
+-le is less than or equal to
+
+-gt is greater than
+
+-ge is greater than or equal to
+
+-e Does a file exist
+
+-f test if a file
+
+-d test if a directory
+
+-L test if a symbolic link
+
+-N if a file was modified after it was last read
+
+-O if the current user owns the file
+
+-G if the file’s group id matches the current user’s
+
+-s test if a file has a size greater than 0
+
+-r test if the file has read permission
+
+-w test if the file has write permission
+
+-x test if the file has execute permission
